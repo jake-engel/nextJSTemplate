@@ -1,0 +1,5 @@
+.main {
+  min-height: calc(
+    100vh - 200px - 64px
+  ); // 200px === height of footer, 64px === height of navbar
+}

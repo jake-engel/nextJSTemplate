@@ -1,0 +1,11 @@
+// SCSS IMPORTS
+
+//Include Materialize CSS
+@import 'materialize-css/dist/css/materialize.min.css';
+
+// Import globally applied styles
+@import '../static/style.scss';
+
+// Component Imports
+@import '../components/Navbar/Navbar.scss';
+@import '../components/Footer/Footer.scss';
