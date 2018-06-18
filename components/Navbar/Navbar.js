@@ -1,3 +1,4 @@
+import React from 'react';
 import NavLink from './Link';
 import Link from 'next/link';
 

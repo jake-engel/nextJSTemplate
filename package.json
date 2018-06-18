@@ -1,5 +1,5 @@
 {
-  "name": "ReactReduxNextTemplate",
+  "name": "NextJSTemplate",
   "scripts": {
     "dev": "next",
     "build": "next build",
