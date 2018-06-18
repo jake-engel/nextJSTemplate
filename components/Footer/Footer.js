@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default () => {
   return (
     <footer className="page-footer blue-grey darken-1">
